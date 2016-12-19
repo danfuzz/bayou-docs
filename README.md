@@ -1,2 +1,3 @@
-# quillex-docs
-Docs for Quillex
+# bayou-docs
+
+Docs for Bayou
